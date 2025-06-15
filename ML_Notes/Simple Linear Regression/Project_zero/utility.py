@@ -5,7 +5,7 @@ import pandas as  pd
 import matplotlib.pyplot as plt 
 
 from constant import LOSS_OPTIONS
-data = pd.read_csv('Data/xy_100_scores.csv')
+data = pd.read_csv('C:/Users/arash/OneDrive/Desktop/Code/Github_Repositories/MachineLearning/ML_Notes/Simple Linear Regression/Project_zero/Data/xy_100_scores.csv')
 
 def loss_function(m, b, points):
     total_error = 0
