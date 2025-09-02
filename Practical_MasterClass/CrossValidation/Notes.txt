@@ -1,0 +1,16 @@
+1. What is Regularization?
+In simple terms, Regularization is a technique used to prevent a machine learning model from "memorizing" 
+the training data too closely (overfitting), so it can perform better on new data.
+
+It does this by adding a "penalty" to the model for being too complex. 
+The model is forced to be simpler and focus only on the most important patterns in the data.
+
+There are two main types:
+
+L1 Regularization (Lasso): 
+Can shrink less important features' coefficients all the way to zero. It's useful for automatically figuring out 
+which features don't matter and ignoring them completely (a form of feature selection).
+
+L2 Regularization (Ridge): Shrinks the coefficients of features but doesn't quite zero them out. 
+It keeps all the features but makes sure no single feature has an overly large impact.
+
