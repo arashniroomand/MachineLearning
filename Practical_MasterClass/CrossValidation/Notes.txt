@@ -14,3 +14,21 @@ which features don't matter and ignoring them completely (a form of feature sele
 L2 Regularization (Ridge): Shrinks the coefficients of features but doesn't quite zero them out. 
 It keeps all the features but makes sure no single feature has an overly large impact.
 
+
+Model Tuning:
+Model tuning is a process of tuning the hyperparameters of the model
+    - It is used to imporve the performenace of the model. 
+    - It is also called hyperparameter optimization. 
+    - It is used to find the best set of hyperparamters for the model 
+    - It is used to avoid overfitting of the model.
+
+
+
+
+
+Available Data:
+    -Training:
+        New Available Data:
+            - Training 
+            - Validation
+    -Test
