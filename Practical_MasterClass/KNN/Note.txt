@@ -1,0 +1,12 @@
+Distances:
+- Euclidean
+- Manhatten
+- Minkowski
+- Chebychev
+- Cosine Similiraity
+- Hamming
+
+
+RANDOM IDEA:
+    - A recommender model that can explain the dataset very well.
+            

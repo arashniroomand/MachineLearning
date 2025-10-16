@@ -32,3 +32,10 @@ Available Data:
             - Training 
             - Validation
     -Test
+
+
+---------
+Questions:
+    - Have to searach about gridsearch algorithm and random gridsearch
+    - Search about the Cross Validation Models. 
+---------
